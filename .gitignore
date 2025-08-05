@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+/converted
+/converted/
+/raw
+/raw/
+
+
 # Distribution / packaging
 .Python
 build/
