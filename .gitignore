@@ -10,7 +10,13 @@ __pycache__/
 /converted/
 /raw
 /raw/
-
+/converted_test_output
+/converted_test_output/
+/raw_test_data
+/raw_test_data/
+/raw_test_handwriting
+/raw_test_handwriting/
+.DS_Store
 
 # Distribution / packaging
 .Python
